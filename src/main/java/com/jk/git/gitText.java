@@ -8,5 +8,6 @@ public class gitText {
         System.out.println("hello world4!");
         System.out.println("master text");
         System.out.println("hot-fix text");
+        System.out.println("push text");
     }
 }
